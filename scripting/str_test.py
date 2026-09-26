@@ -1,1 +1,0 @@
-print(str.capitalize("abc"))
